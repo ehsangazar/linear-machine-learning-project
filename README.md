@@ -2,6 +2,9 @@
 
 I have started learning machine learning and this is the basic of tensorflow.js and linear learning algorithm
 
+Demo: https://ehsangazar.github.io/linear-machine-learning-project/
+
+
 ## Importing tensorflow
 
 ```
