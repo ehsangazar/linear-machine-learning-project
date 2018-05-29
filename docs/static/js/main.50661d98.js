@@ -57,7 +57,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/";
+/******/ 	__webpack_require__.p = "https://ehsangazar.github.io/linear-machine-learning-project/";
 /******/
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(__webpack_require__.s = 87);
@@ -39757,4 +39757,4 @@ var version = '0.11.2';
 
 /***/ })
 /******/ ]);
-//# sourceMappingURL=main.784ebed7.js.map
+//# sourceMappingURL=main.50661d98.js.map
